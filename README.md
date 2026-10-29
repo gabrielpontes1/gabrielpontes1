@@ -52,12 +52,18 @@ Site de uma cafeteria fictícia, desenvolvido como projeto da faculdade. A pági
 
 <div>
   <img
-    height="180"
+    align="left"
+    alt="Estatísticas do GitHub"
+    height="200"
+    style="padding-right: 10px;"
     src="https://github-stats-extended.vercel.app/api?username=gabrielpontes1&include_all_commits=true&show_icons=true&locale=pt-br"
     alt="Estatísticas do GitHub"
   />
   <img
-    height="180"
+    align="left"
+    alt="Linguagens mais utilizadas"
+    height="200"
+    style="padding-right: 10px;"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielpontes1&layout=compact&langs_count=8&locale=pt-br"
     alt="Linguagens mais utilizadas"
   />
