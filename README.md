@@ -7,7 +7,7 @@ Olá! Sou Gabriel Pontes, estudante de Ciência da Computação na UNINASSAU. Es
 <a href="https://www.linkedin.com/in/gabriel-pontes-95379a406/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:pontegabriel710@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pontegabriel710@gmail.com">
   <img src="https://img.shields.io/badge/pontegabriel710@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
 
@@ -69,4 +69,4 @@ Site de uma cafeteria fictícia, desenvolvido como projeto da faculdade. A pági
 
 - 💻 **GitHub:** [@gabrielpontes1](https://github.com/gabrielpontes1)
 - 💼 **LinkedIn:** [Gabriel Pontes](https://www.linkedin.com/in/gabriel-pontes-95379a406/)
-- 📧 **E-mail:** [pontegabriel710@gmail.com](mailto:pontegabriel710@gmail.com)
+- 📧 **E-mail:** [pontegabriel710@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=pontegabriel710@gmail.com)
