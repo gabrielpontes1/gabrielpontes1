@@ -10,6 +10,7 @@ Olá! Sou Gabriel Pontes, estudante de Ciência da Computação na UNINASSAU. Es
 <a href="mailto:pontegabriel710@gmail.com">
   <img src="https://img.shields.io/badge/pontegabriel710@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
+
 ---
 
 ### 👋 Sobre mim
